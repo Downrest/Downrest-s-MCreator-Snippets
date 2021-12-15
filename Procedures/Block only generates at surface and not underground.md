@@ -9,4 +9,4 @@ This procedure can be used in making your custom block only generate on the surf
 # Download link
 | Download  | Made On |
 | ------------- | ------------- |
-| [![Download](![https://i.imgur.com/TNQVE5i.png](https://user-images.githubusercontent.com/83262692/146198822-45286286-ec8d-4671-bd43-fd99bf2758a1.png))](https://github.com/Downrest/Downrest-s-MCreator-Snippets/blob/files/Block%20only%20generates%20at%20surface%20and%20not%20underground.ptpl?raw=true) | Download for 1.0.0 |  | MCreator 2021.2 |
+| [![Download](https://i.imgur.com/TNQVE5i.png)](https://github.com/Downrest/Downrest-s-MCreator-Snippets/blob/files/Block%20only%20generates%20at%20surface%20and%20not%20underground.ptpl?raw=true) | Download for 1.0.0 |  | MCreator 2021.2 |

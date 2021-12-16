@@ -3,9 +3,13 @@
 # Block only generates at surface and not underground
 ## What is this?
 This procedure can be used in making your custom block only generate on the surface instead of generating underground.
-## How do I use this?
+## How do import this procedure?
 * When creating a procedure, select the "Import procedures" button and select the .ptpl file you downloaded from here.
 ![javaw_OuY6tZwuY0](https://user-images.githubusercontent.com/83262692/146194245-a28c5fde-19db-42a7-bc4a-fec744449265.png)
+## How do I use this?
+* Create a procedure, and import the .ptpl file on it
+* Make sure that the blocks that your custom block can replace is "air", and nothing else.
+* Make sure to set the maximum height of the generation to 128+
 ## Download link
 | Download  | Made On |
 | ------------- | ------------- |

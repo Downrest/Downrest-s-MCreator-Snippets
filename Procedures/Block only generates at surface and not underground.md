@@ -9,6 +9,7 @@ This procedure can be used in making your custom block only generate on the surf
 ## How do I use this?
 * Create a procedure, and import the .ptpl file on it
 * Make sure that the blocks that your custom block can replace is "air", and nothing else.
+* Put the procedure inside your block's additional generation condition
 * Make sure to set the maximum height of the generation to 128+
 ## Download link
 | Download  | Made On |
